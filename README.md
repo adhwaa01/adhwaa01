@@ -94,8 +94,8 @@ Mahasiswa Software Engineering yang fokus membangun aplikasi *fullstack* untuk m
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adhwaa01&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhwaa01&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ Mahasiswa Software Engineering yang fokus membangun aplikasi *fullstack* untuk m
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adhwaa01&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
