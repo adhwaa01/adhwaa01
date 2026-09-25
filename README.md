@@ -6,6 +6,16 @@
 
 ---
 
+
+### 🐍 My GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adhwaa01/adhwaa01/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+
 ### 👩‍💻 About Me
 
 Mahasiswa Software Engineering yang fokus membangun aplikasi *fullstack* untuk menyelesaikan masalah nyata di lapangan — mulai dari manajemen bengkel, antrean digital BBM, hingga e-commerce UMKM. Tertarik mendalami arsitektur software yang scalable dan mulai eksplorasi IoT & AI/ML.
