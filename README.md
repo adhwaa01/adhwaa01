@@ -9,12 +9,6 @@
   <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat&color=2ecc71" alt="GitHub followers" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 👩‍💻 About Me
@@ -91,21 +85,6 @@ Mahasiswa Software Engineering yang fokus membangun aplikasi *fullstack* untuk m
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adhwaa01&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhwaa01&layout=compact&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhwaa01&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adhwaa01&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<p align="center"><i>⭐️ From Adhwaa's GitHub — thanks for stopping by!</i></p>
+<p align="center"><i> From Adhwaa's GitHub — thanks for stopping by!</i></p>
