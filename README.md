@@ -99,7 +99,7 @@ Mahasiswa Software Engineering yang fokus membangun aplikasi *fullstack* untuk m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhwaa01&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
